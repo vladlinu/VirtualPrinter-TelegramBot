@@ -1,0 +1,7 @@
+2021-02-19 22:19:42,624 DEBUG [LPD] main(): STARTED
+2021-02-19 22:19:42,626 DEBUG [Queues] Queues(): STARTED
+2021-02-19 22:19:42,981 DEBUG [LPD] LPD(): STARTED
+2021-02-19 22:19:42,987 DEBUG [HandlerFactory] HandlerFactory(): STARTED
+2021-02-19 22:19:42,988 DEBUG [LPD] run(): trying to accept() socket connection.
+2021-02-19 22:19:42,991 DEBUG [LPD] main(): FINSHED
+2021-02-19 22:19:42,991 DEBUG [QueueMonitor] run(): Nothing to process going to wait()
